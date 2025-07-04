@@ -1,4 +1,4 @@
-# Task 7: Support Vector Machines (SVM)
+Task 7: Support Vector Machines (SVM)
 
 ## ✅ Objective
 Use Support Vector Machines (SVMs) for linear and non-linear classification using the Breast Cancer dataset.
